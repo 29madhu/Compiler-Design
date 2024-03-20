@@ -48,3 +48,19 @@ int main()
     x++;
     j++;
    }}}}
+
+OUTPUT:
+Input the expression ending with $ sign:X=A+B$
+Given Expression:X=A+B
+ Symbol Table display
+Symbol   addr    type
+X        8066064         identifier
+
+ =       8066160         operator
+
+A        8066240         identifier
+
+ +       8066320         operator
+
+B        8066384         identifier
+
