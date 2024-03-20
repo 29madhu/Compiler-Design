@@ -77,3 +77,9 @@ int main() {
     
     return 0;
 }
+
+
+OUTPUT :
+Enter a sentence: You are happy
+Input string is a valid sentence.
+
